@@ -26,5 +26,13 @@ Want to add a course? Awesome!
 3. Run the provided Cyberpunk prompt through an AI image generator (like Gemini or Midjourney) to get your 21:9 banner.
 4. Submit a Pull Request.
 
+## ❤️ Support the JuniorMakers
+
+[![Support JuniorMakers](Kursinhalte/media/images/donation-svgs/donate_CTAs/EN/donate_landscape_brand_EN.svg)](https://donate.raisenow.io/ycjjp)
+
+If these free courses save you time and help your kids discover the magic of STEAM, we'd be thrilled to receive a small donation. Your support pays for our servers, buys new hardware for experiments, and fuels the next epic course updates!
+
+**[👉 Support us via RaiseNow / TWINT](https://donate.raisenow.io/ycjjp)**
+
 ---
 *Created with 🦾 by Mike Zweifel ([@royassas](https://github.com/royassas)) & the [Zigerschlitzmakers](https://www.zigerschlitzmakers.ch).*

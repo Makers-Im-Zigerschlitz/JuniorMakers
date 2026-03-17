@@ -55,4 +55,14 @@ In der Tabelle siehst du auf einen Blick, welche Kerndisziplinen abgedeckt werde
 
 ---
 
+## ❤️ Unterstütze die JuniorMakers
+
+[![Support JuniorMakers](media/images/donation-svgs/donate_CTAs/DE/donate_landscape_brand_DE.svg)](https://donate.raisenow.io/ycjjp)
+
+Wenn unsere 100% freien Kurse dir Zeit und Nerven sparen, freuen wir uns riesig über eine kleine Spende! Dein Beitrag finanziert neue Hardware-Experimente, Serverkosten und zukünftige epische Kursinhalte für die Kids. 
+
+👉 **[Jetzt Spenden](https://donate.raisenow.io/ycjjp)**
+
+---
+
 *Index zuletzt aktualisiert: 13. März 2026*
