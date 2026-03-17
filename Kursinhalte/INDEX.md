@@ -55,10 +55,4 @@ In der Tabelle siehst du auf einen Blick, welche Kerndisziplinen abgedeckt werde
 
 ---
 
-## 📚 Altes Archiv (Vor der CI-Umstellung)
-In diesem Ordner befinden sich Altlasten aus den Jahren 2023/2024, die noch nicht in das neue `[STEAM]`-Markdown-Format portiert wurden.
-* 📁 [Jahrgang 2023 - 2024](Jahrgang%202023%20-%202024/)
-
----
-
 *Index zuletzt aktualisiert: 13. März 2026*
