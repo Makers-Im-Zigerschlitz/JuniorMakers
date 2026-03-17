@@ -49,8 +49,8 @@ In der Tabelle siehst du auf einen Blick, welche Kerndisziplinen abgedeckt werde
 | **[☀️ Cyanotypie: Fotografieren mit der Sonne](%5BSteAm%5D_Cyanotypie_Blaudruck/Kursplan.md)** | 🧪 | | | 🎨 | | 🛠️ Off | 🟢 Leicht | 🟡 Gelb | Blaudruck-Verfahren (Cyanotypie) mit UV-Licht der Sonne auf Papier entwickeln. |
 | **[Origami-Ingenieure: Falten für den Weltraum](%5BstEAm%5D_Origami_Ingenieure/Kursplan.md)** | | | ⚙️ | 🎨 | | 🛠️ Off | 🟡 Mittel | 🟢 Grün | Das Miura-Faltmuster verstehen und entfaltbare Satellitenstrukturen aus Papier bauen. |
 | **[Malen mit Licht: Leuchtende Kunstwerke](%5BSTeAm%5D_Malen_mit_Licht/Kursplan.md)** | 🧪 | 💻 | | 🎨 | | 🛠️ Off | 🟡 Mittel | 🟢 Grün | Mit LEDs und Langzeitbelichtung (Kamera) faszinierende leuchtende Kunstwerke in der Luft erschaffen. |
-
 | **[Wetter-Hacker: Wolken, Wind und Tornados](%5BStEam%5D_Wetter_Hacker/Kursplan.md)** | 🧪 | | ⚙️ | | | 🛠️ Off | 🟡 Mittel | 🟡 Gelb | Wolke in der Flasche, Mini-Tornados und Anemometer bauen. |
+
 *(S = Science, T = Technology, E = Engineering, A = Arts, M = Math)*
 
 ---
