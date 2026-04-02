@@ -12,9 +12,15 @@ An open-source STEAM curriculum for kids ages 9-12. Features dozens of detailed 
 * **Mentor Guides:** Essential questions, learning objectives, troubleshooting, and inclusivity tips for every single lesson.
 
 ## 🗺️ Navigation
-- 📚 **[Course Index (INDEX.md)](Kursinhalte/INDEX.md):** The complete list and table of all available modules, sorted by STEAM discipline and difficulty.
-- 🧵 **[Learning Tracks (Curriculum_Roter_Faden.md)](Kursinhalte/Curriculum_Roter_Faden.md):** Thematic blocks designed for 10-week quarters (e.g., "The Digital Artists", "The Engineering Guild").
-- 📋 **[Master Template & CI (00_Mastervorlage_und_Richtlinien.md)](Kursinhalte/00_Mastervorlage_und_Richtlinien.md):** Our strict Corporate Identity guidelines, AI image prompts, and the blank Markdown template for creating new courses.
+- 📚 **[Course Index (INDEX.md)](Experiences/INDEX.md):** The complete list and table of all available modules, sorted by STEAM discipline and difficulty.
+- 🧵 **[Learning Tracks (Curriculum_Roter_Faden.md)](Experiences/Curriculum_Roter_Faden.md):** Thematic blocks designed for 10-week quarters (e.g., "The Digital Artists", "The Engineering Guild").
+- 📋 **[Master Template & CI (00_Mastervorlage_und_Richtlinien.md)](Experiences/00_Mastervorlage_und_Richtlinien.md):** Our strict Corporate Identity guidelines, AI image prompts, and the blank Markdown template for creating new courses.
+
+## 🧱 Module-Typen
+- **JuniorMakers Experiences:** unser bewährter 100-Minuten-Projektkatalog (Ordner `Experiences/`).
+- **JuniorMakers Skills:** neue Fähigkeits-Level mit Assessments (Ordner `Skills/`).
+- **JuniorMakers HUD (in Arbeit):** zentrale Web-App, die Experiences, Skills, Badges und Prüfungen verwaltet.
+
 
 ## 🌍 Language
 Currently, all lesson plans and materials are written in **German**, optimized for local MakerSpaces. The Markdown structure makes it incredibly easy to translate or adapt them for your local community!
@@ -28,7 +34,7 @@ Want to add a course? Awesome!
 
 ## ❤️ Support the JuniorMakers
 
-[![Support JuniorMakers](Kursinhalte/media/images/donation-svgs/donate_CTAs/EN/donate_landscape_brand_EN.svg)](https://donate.raisenow.io/ycjjp)
+[![Support JuniorMakers](Experiences/media/images/donation-svgs/donate_CTAs/EN/donate_landscape_brand_EN.svg)](https://donate.raisenow.io/ycjjp)
 
 If these free courses save you time and help your kids discover the magic of STEAM, we'd be thrilled to receive a small donation. Your support pays for our servers, buys new hardware for experiments, and fuels the next epic course updates!
 
