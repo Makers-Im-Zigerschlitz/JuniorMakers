@@ -90,6 +90,7 @@ Hilft dem Mentor einzuschätzen, wie viel Hilfestellung die Kinder benötigen:
 * **Letzte Änderung:** [JJJJ-MM-TT]
 * **Zielgruppe:** [z.B. 9-12 Jahre]
 * **Format:** [ 🖥️ 100% PC / 🛠️ 100% Offline / 🔄 Gemischt ]
+* **Kursstatus:** [In Entwicklung / Durchgeführt / Mehrfach erprobt und bewährt]
 * **Schwierigkeit:** [Leicht / Mittel / Schwer]
 * **Sicherheitsstufe:** [Grün / Gelb / Rot - mit kurzer Begründung]
 
@@ -136,11 +137,11 @@ Hilft dem Mentor einzuschätzen, wie viel Hilfestellung die Kinder benötigen:
 
 | Zeit | Phase | Beschreibung | Fokus / Mentor-Tipps |
 |------|-------|--------------|----------------------|
-| **16:40 - 16:50** | Einleitung | [Spannender Hook, Erklärung des Themas] | [Worauf besonders achten?] |
-| **16:50 - 17:30** | Praxis Level 1 | [Basis-Experiment oder Aufgabe] | [Wo hakt es meistens?] |
-| **17:30 - 17:40** | Pause | [Hände waschen, Lüften] | [Material für Level 2 vorbereiten] |
-| **17:40 - 18:05** | Experten-Level | [Erweiterte Aufgabe / Variablen ändern] | [Wie kann man hochbegabte Kinder hier challengen?] |
-| **18:05 - 18:20** | Reflexion | [Ergebnisse präsentieren, Aufräumen] | [Welche offenen Fragen sollten gestellt werden?] |
+| **20min** | Einleitung | [Spannender Hook, Erklärung des Themas] | [Worauf besonders achten?] |
+| **40min** | Praxis Level 1 | [Basis-Experiment oder Aufgabe] | [Wo hakt es meistens?] |
+| **10min** | Pause | [Hände waschen, Lüften] | [Material für Level 2 vorbereiten] |
+| **15min** | Experten-Level | [Erweiterte Aufgabe / Variablen ändern] | [Wie kann man hochbegabte Kinder hier challengen?] |
+| **15min** | Reflexion | [Ergebnisse präsentieren, Aufräumen] | [Welche offenen Fragen sollten gestellt werden?] |
 
 ---
 

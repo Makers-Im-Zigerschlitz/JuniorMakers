@@ -11,12 +11,12 @@
 
 **📋 Metadaten**
 * **Autor:** ZWEIFEL Mike (mike.zweifel@zigerschlitzmakers.ch)
-* **Version:** v1.0.0
+* **Version:** v0.1.2
 * **Erstellt am:** 2026-03-13
-* **Letzte Änderung:** 2026-03-13
+* **Letzte Änderung:** 2026-04-03
 * **Zielgruppe:** 9-12 Jahre
 * **Format:** 🛠️ 100% Offline
-* **Kursstatus:** In Entwicklung
+* **Kursstatus:** Durchgeführt
 * **Schwierigkeit:** Mittel
 * **Sicherheitsstufe:** Grün (Normale Bastelmaterialien, unbedenklich)
 
@@ -43,15 +43,14 @@ Wer baut die stabilste Brücke aus Spaghetti und Marshmallows? In diesem Kurs le
 - Boden, der sich nach dem Zerstörungstest leicht wischen oder saugen lässt.
 
 ## 🛠️ Anforderungen ans Material vor Ort
-**Pro Teilnehmer/Team (2er Teams):**
-- 1 Packung rohe Spaghetti
-- 1 Packung große Marshmallows
-- 1 Packung kleine Marshmallows
-- Gewichte zum Testen (z.B. Münzen, Bücher oder Wasserflaschen)
+**Für 12-15 Teilnehmer/innen:**
+- 3× Packung Holzstäbchen à 50 Stück (Migros <https://www.migros.ch/de/product/728112800000>)
+- 3× Packung Holzwäscheklammern à 40 Stück (Migros <https://www.migros.ch/de/product/702696000000>)
+- 2x 500g Packungen rohe Spaghetti mittleren Durchmessers (Migros <https://www.migros.ch/de/product/104135100000>)
+- 3-4x 300g Packungen grosse Marshmallows (Migros <https://www.migros.ch/de/product/101036600000>)
+- Kleine Gewichte zum Testen (z.B. Schwamm (Eignet sich auch gut als simulierter Lastwagen), Münzen, Bücher oder Wasserflaschen)
 
-**Für den Mentor (Allgemein):**
-- Waage zum Wiegen der Gewichte
-- Besen und Kehrschaufel / Staubsauger
+- Besen, Kehrschaufeln, Staubsauger, Waschlappen mit Wasser und Seife
 
 ## ⏱️ Zeitaufwand
 - **Vorbereitungszeit (Mentor):** 10 Minuten (Material aufteilen).
@@ -64,13 +63,46 @@ Wer baut die stabilste Brücke aus Spaghetti und Marshmallows? In diesem Kurs le
 
 | Zeit | Phase | Beschreibung | Fokus / Mentor-Tipps |
 |------|-------|--------------|----------------------|
-| **16:40 - 16:50** | Einleitung | Bilder berühmter Brücken zeigen. Warum sind überall Dreiecke? Intro in Zug- und Druckkräfte. | Fokus auf das Dreieck als stabilste Form legen. |
-| **16:50 - 17:05** | Fachwerk-Galerie & Recherche | Teams bearbeiten das Arbeitsblatt „Fachwerk-Galerie“ (Referenzen lesen, Lieblings-Fachwerk (engl. Truss) skizzieren). | Referenzposter bereitlegen, Quellen kurz vorstellen. |
-| **17:05 - 17:35** | Bauphase | Die Teams bauen freitragende Brücken (30 cm Spannweite) nach ihrem recherchierten Fachwerk-Konzept. | Auf saubere Dreiecksverbände achten, Materialien rationieren. |
-| **17:35 - 17:45** | Pause | Hände waschen, lüften, Teststrecke freiräumen. | Gewichte bereitlegen. |
-| **17:45 - 18:05** | Belastungstest | Jede Brücke wird mit Gewichten belastet, bis sie bricht. Wer hält am meisten aus? | Spannungsbogen aufbauen: „Hält sie noch eine Flasche aus?“ |
-| **18:05 - 18:15** | Forces-Diagnose | Mit dem Arbeitsblatt „Dreiecks-Check“ festhalten, welche Stäbe auf Zug / Druck waren. | Rote/blau Marker verteilen, Kinder markieren belastete Zonen. |
-| **18:15 - 18:20** | Reflexion & Aufräumen | Warum war die Siegerbrücke stabil? Welche Hypothesen habt ihr getestet? Aufräumen. | Scheitern als Lernmoment betonen; Fotos der besten Brücken machen. |
+| **10min** | Intro: Brückentypen | Bildkarten zu Bogen-, Balken-, Fachwerk-, Hänge- und Schrägseilbrücke zeigen, Formen diskutieren. | Jede Brücke kurz erklären; klar machen, dass wir heute Fachwerk vertiefen. |
+| **20min** | Grundlagen mit Holzstäbchen & Klammern | Material auslegen (3×50 Holzstäbchen, 3×40 Holzwäscheklammern für 10 Kids). Aufgabenreihe siehe unten. | Darauf achten, dass wirklich jede Gruppe jede Variante baut. |
+| **5min** | Aufräumen & Reset | Holzmaterial sortieren, Tische für Marshmallow-Bau frei machen. | Gemeinsame Aufräum-Challenge starten. |
+| **40min** | Spaghetti-/Marshmallow-Brücke | Freies Bauen über der „Schlucht“ (2 Kisten). Inputs in Micro-Dosen geben (siehe Liste). | Fail-fast fördern: immer wieder auf Dreiecke, Zug/Druck und Seitenstabilität hinweisen. |
+| **10min** | Belastungstest + Forces-Diagnose | Lastwagen-Test + Gewichte, danach Dreiecks-Check-Worksheet ausfüllen. | Fotos/Videos machen, rote/blau Marker bereit. |
+| **15min** | Abschluss & Aufräumen | Fotos der Teams + Feedbackrunde (Was war stark, wo kann man optimieren?). Danach Marshmallow-/Spaghetti-Cleanup laut Checkliste. | Fokus auf positives Feedback, dann strukturiertes Putzen (siehe Abschnitt „Aufräumen“). |
+
+### Intro: Brückentypen
+| Brückentyp | Bild | Warum diese Form funktioniert |
+| --- | --- | --- |
+| Bogenbrücke | ![Bogenbrücke](media/images/intro_bogen.png) | Der Bogen leitet Kräfte in die Widerlager und arbeitet fast nur auf Druck. Gut für Stein/Beton. |
+| Balkenbrücke | ![Balkenbrücke](media/images/intro_balken.png) | Gerade Träger, die auf Biegung/Zug arbeiten. Einfach zu bauen, aber nur für kurze Spannweiten. |
+| Fachwerkbrücke | ![Fachwerkbrücke](media/images/intro_fachwerk.png) | Dreiecke teilen Zug/Druck sauber auf. wenig Material, hohe Steifigkeit. |
+| Hängebrücke | ![Hängebrücke](media/images/intro_haenge.png) | Hauptseile tragen Zug, Pylone leiten Last in den Boden. Eignet sich für sehr lange Spannweiten. |
+| Schrägseilbrücke | ![Schrägseilbrücke](media/images/intro_schraegseil.png) | Seile greifen direkt an der Fahrbahn an, Kräfte gehen sofort in die Pylone. Benötigt weniger Kabel als Hängebrücke. |
+
+### Grundlagen – Schritt-für-Schritt (Holzstäbchen & Klammern)
+1. **Freies Gelenk:** Zwei Stäbchen + 1 Klammer – zeigt freie Beweglichkeit.
+2. **Quadrat:** Vier Stäbchen + 4 Klammern – kippt leicht in ein Parallelogramm, nur axial belastbar.
+3. **Pentagon:** Fünf Stäbchen + 5 Klammern – extrem instabil; Würde mit noch mehr Stäbchen und Klammern zum Kreis - ungeeignet für Fachwerkbrücke. Beim Eindrücken des Pentagons entstehen automatisch stabilere Dreiecke.
+4. **Dreieck:** Drei Stäbchen + 3 Klammern – Winkel fix, jede Druckkraft erzeugt Zug auf einer anderen Seite.
+5. **Materialgespräch:** Liste Beispiele: Beton (Druck), Stahl (Zug/Druck), Holz (gut für Druck quer zur Faser), Carbonfaser (Zug). Kids sollen entscheiden, wo welches Material eingesetzt wird.
+
+MentorInnen können das Experiment anleiten oder als Schnell-Station aufbauen. Es liefert die perfekte Brücke (😉) zur Dreiecks-Theorie und sorgt für einen spürbaren Aha-Moment, bevor die Kids Spaghetti und Marshmallows verwenden.
+
+### Inputs für die Spaghetti-/Marshmallow-Phase
+- Baut so viele **Dreiecke** wie möglich, Quadrate unbedingt mit einer Diagonale versehen (siehe Grafik unten).
+- Beobachtet aktiv, wo **Zug** (Spaghetti werden aus Marshmallows gezogen) und **Druck** (Spaghetti knicken) entstehen.
+- Sichert eure Brücke gegen **Seitwärtskippen** (z. B. Streben nach außen).
+- Haltet die Brücke relativ **flach**, hohe Konstruktionen schwingen stärker.
+- Mehrere Spaghetti pro Verbindung = mehr Stabilität, aber weniger Flexibilität. Dreiecksanordnung im Marshmallow siehe Grafik.
+- „Fahrbahn“ freilassen: Ein imaginärer LKW muss durchfahren können, Stabilität außen herum aufbauen.
+- Nutzt Eckverstärkungen: Quadrat + Diagonale ergibt zwei Dreiecke.
+
+![Spaghetti-Dreieck](media/images/spaghetti_dreieck.png) ![Eckverstärkung](media/images/spaghetti_eckverstaerkung.png)
+
+### Laufende Tests & Fotodokumentation
+- Jede fertiggestellte Brücke wird auf der Modellschlucht getestet und fotografiert (Team + Brücke).
+- Kleine Gewichte (oder Spielzeug-LKW) nutzen, um Schritt für Schritt die Tragkraft zu erhöhen.
+- Nach jedem Test eine Mini-Diskussion: Welche Elemente funktionieren gut? Welche Verbesserungen können andere Teams übernehmen?
 
 ### Mini-Experiment mit Holzstäbchen & Ordnerklammern
 1. Verbinde zwei Holzstäbchen mit einer Klammer als Gelenk. Spiele mit dem Winkel – was fällt dir auf?
@@ -79,15 +111,16 @@ Wer baut die stabilste Brücke aus Spaghetti und Marshmallows? In diesem Kurs le
 4. Füge nun eine Diagonale (ein weiteres Holzstäbchen) hinzu – du erhältst zwei Dreiecke. Das Gebilde wird plötzlich starr.
 5. Diskutiere mit deinem Team, warum das Dreieck nicht „schieben“ kann, ohne dass seine Seiten länger oder kürzer werden.
 
-MentorInnen können das Experiment anleiten oder als Schnell-Station aufbauen. Es liefert die perfekte Brücke (😉) zur Dreiecks-Theorie und sorgt für einen spürbaren Aha-Moment, bevor die Kids Spaghetti und Marshmallows verwenden.
-
 ---
+## 🧼 Aufräum-Checkliste (15 min)
+1. Marshmallows essen, Rest zusammen mit verklebten Spaghetti-Resten in einen Abfallsack – keine Essensreste offen lassen.
+2. Alle Tischflächen mit Wasser + Seife abwischen (Marshmallowzucker klebt).
+3. Spaghetti-Bruchstücke von Tisch/Boden aufheben, danach mit Besen und Staubsauger nacharbeiten.
+4. Holzstäbchen & Klammern sortiert zurück in die Box legen.
+5. Schlucht-Kisten, Waage und Gewichte wieder an ihren Lagerplatz bringen.
+
 ## 🕹️ Digitale Erweiterung: Bridge Builder (Optional)
 - Spiele-Link: <https://www.crazygames.com/game/bridge-builder-eoi>
-- Dauer: 10–15 Minuten (z. B. parallel zur Forces-Diagnose an Tablets oder als Hausaufgabe).
-- Auftrag: Rekonstruiere eure Marshmallow-Brücke im Spiel und versuche, mit möglichst wenig Budget die virtuelle Schlucht zu überqueren.
-- Reflexion: Welche digitalen Bauteile entsprechen den Spaghetti-Stäben? Welche Verbesserungen könnt ihr virtuell testen, bevor ihr sie beim nächsten Mal real baut?
-
 
 ## 💡 Weitere nützliche Informationen
 * **Mögliche Fehlerquellen:** Spaghetti brechen beim Einstecken, Marshmallows trocknen aus und werden hart.
@@ -95,17 +128,15 @@ MentorInnen können das Experiment anleiten oder als Schnell-Station aufbauen. E
 * **Links & Quellen:** siehe Abschnitt „Referenzen“ unten.
 
 ## 📎 Materialien zum Download
-- [Arbeitsblatt_Fachwerk_Galerie.md](Arbeitsblatt_Fachwerk_Galerie.md)
-- [Arbeitsblatt_Dreiecks_Check.md](Arbeitsblatt_Dreiecks_Check.md)
+Keines nötig.
 
 ## 🔗 Referenzen für die Kursrecherche
-1. **Science Buddies – „Popsicle Stick Trusses: What Shape is Strongest?“** <https://www.sciencebuddies.org/stem-activities/popsicle-stick-trusses-what-shape-is-strongest>
-   - Vergleich von Warren-, Pratt- und Howe-Fachwerk (engl. Truss) mit Schülerexperimenten.
-2. **TeachEngineering – „Analysis of Forces in a Fachwerk (engl. Truss) Bridge“** <https://www.teachengineering.org/lessons/view/ind-2472-analysis-forces-truss-bridge-lesson>
-   - Erklärt, wie Zug-/Druckkräfte durch Dreiecke übertragen werden; enthält Klassenaktivitäten.
-3. **North Carolina DOT – „Historic Fachwerk (engl. Truss) Bridge Types“** <https://www.ncdot.gov/initiatives-policies/Transportation/bridges/historic-bridges/bridge-types/Pages/truss.aspx>
-   - Übersicht realer Brückenfachwerke (Truss) (Pratt, Howe, Warren) als Inspiration für die Fachwerk-Galerie.
-4. **US Bridge – „Fachwerk (engl. Truss) Bridge Designs & History“** <https://usbridge.com/truss-bridge-designs-history/>
-   - Liefert Vor- / Nachteile der gängigen Fachwerk-Konzepte und gute Fotos für Poster.
-5. **Triangles in Bridges (Projektseite)** <https://trianglesinbridges.weebly.com/>
-   - Anschauliche Erklärung, warum Dreiecke nicht „wegknicken“ – perfekt für das Dreiecks-Check-Arbeitsblatt.
+1. [Technische Einteilung von Brücken – Wikipedia](https://de.wikipedia.org/wiki/Technische_Einteilung_von_Br%C3%BCcken)
+2. [Fachwerkbrücke – Wikipedia](https://de.wikipedia.org/wiki/Fachwerkbr%C3%BCcke)
+3. [BLS Inside: Brückenstories](https://www.bls.ch/de/bls-inside/infrastruktur-und-mobilitaet/2025/006-bruecken)
+4. [PHBern Ideenset „Faszinierende Brücken“](https://www.phbern.ch/dienstleistungen/unterrichtsmedien/ideenset-dossier-4-bis-8-erstaunliche-bauwerke/baustein-3-faszinierende-bruecken)
+5. [YouTube: "How Bridges Work" – Video 1](https://www.youtube.com/watch?v=Wv4X7YRaoh0)
+6. [YouTube: "Triangle Power" – Video 2](https://www.youtube.com/watch?v=wLzGWo4gOm8)
+7. [WDR Maus – Brückenspezial](https://www.wdrmaus.de/extras/mausthemen/bauwerke/bruecken.php5)
+
+
